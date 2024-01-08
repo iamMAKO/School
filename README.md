@@ -1,5 +1,5 @@
 # School
-there are some school works and my homeworks how i learn
+there are some school works
 
 C:
 Loan_repayment - calculate first repayment
